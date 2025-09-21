@@ -5,14 +5,24 @@ Each follower is represented by their profile picture. The last one standing is 
 
 ---
 
-## 🚀 Features
-- Followers move randomly
-- Collision reduces health
-- Last survivor wins
-- Results stored for records
+Here you can find:
+
+- 📊 **Results** → Daily battle stats of each player  
+- 📜 **Rules** → How the game works  
+- 📰 **Updates** → Announcements, patches, and new features
 
 ---
 
-## 🛠 How to Run
-1. Open `index.html` in your browser
-2. Enjoy the chaos!
+## Latest Results
+- [2025-09-21](results/2025-09-21.csv)  
+- [2025-09-22](results/2025-09-22.csv)
+
+---
+
+## Game Rules
+Check [Rules](rules/rules.md) to learn how the battles work.
+
+---
+
+## Updates
+Latest news in [Updates](updates/update-001.md)
