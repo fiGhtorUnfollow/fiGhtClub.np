@@ -1,0 +1,18 @@
+# fiGhtorUnfollow 🥊
+
+A fun battlefield game where Instagram followers battle each other!  
+Each follower is represented by their profile picture. The last one standing is the winner.
+
+---
+
+## 🚀 Features
+- Followers move randomly
+- Collision reduces health
+- Last survivor wins
+- Results stored for records
+
+---
+
+## 🛠 How to Run
+1. Open `index.html` in your browser
+2. Enjoy the chaos!
